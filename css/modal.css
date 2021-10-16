@@ -32,7 +32,6 @@ main {
     height: 5%;
     width: 100%;
     margin-bottom: 7%;
-
     display: flex;
 }
 
@@ -45,13 +44,13 @@ main {
     cursor: pointer;
 }
 
-.modal .title .imgContainer {
+.modal .title .logobox {
     width: 100%;
     display: flex;
     justify-content: center;
 }
 
-.modal .title .imgContainer img {
+.modal .title .logobox img {
     height: 100%;
 }
 
